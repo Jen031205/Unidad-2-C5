@@ -1,9 +1,9 @@
 # Unidad-2-C5
 Autores
-| Nombre | Jennifer Ailin Medina Hernández | Cecilia Aurora Robelo Hernández |
-|--------------|--------------|--------------|--------------|
-| Numero de control | 1223100426 | 1223100458|
-| Grupo | GDS0652 | GDS0652 |
+| Integrante | Numero de control |
+|--------------|--------------|
+|Jennifer Ailin Medina Hernández | 1223100426 |
+| Cecilia Aurora Robelo Hernández | 1223100458 |
 
 **Evidencias:**
 #### **Ejercicios de sensores y modulos**
