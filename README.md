@@ -15,10 +15,10 @@
 
 | Integrante |Figura en placa fenolica con LEDS |
 |--------------|--------------|
-|Jennifer Ailin Medina Hernández | |
-| Cecilia Aurora Robelo Hernández ||
+|Jennifer Ailin Medina Hernández |<img src="" width="500"/> |
+| Cecilia Aurora Robelo Hernández |<img src="" width="500"/>|
 
 | Integrante | Evaluación Cisco |
 |--------------|--------------|
-|Jennifer Ailin Medina Hernández | |
-| Cecilia Aurora Robelo Hernández ||
+|Jennifer Ailin Medina Hernández |<img src="https://github.com/user-attachments/assets/dd3b2269-201c-459e-8dcb-75320c6bd2fa" width="500"/> |
+| Cecilia Aurora Robelo Hernández |<img src="" width="500"/>|
